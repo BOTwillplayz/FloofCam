@@ -6,4 +6,5 @@ created_at: "2025-06-19"
 ---
 
 25/06/19
-Today I started on the CAD and it didn't go well! I did my CAD in fusion as I normally would, but as I imported the image I realised I made a fatal flaw... When I started I made my very first part of the sketch I made it 4cm with a 1mm tolerance and then worked around it, but the outer wall I made on the inside, so I have now had to restart
+Today I started on the CAD and it didn't go well! I did my CAD in fusion as I normally would, but as I imported the image I realised I made a fatal flaw... When I started I made my very first part of the sketch I made it 4cm with a 1mm tolerance and then worked around it, but the outer wall I made on the inside, so I have now had to restart.
+![fusion screenie 1](https://raw.githubusercontent.com/BOTwillplayz/FloofCam/refs/heads/main/Screenshot%202025-06-19%20at%2016.29.58.png)
