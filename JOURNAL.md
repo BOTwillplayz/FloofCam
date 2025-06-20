@@ -10,4 +10,5 @@ Today I started on the CAD and it didn't go well! I did my CAD in fusion as I no
 ![fusion screenie 1](https://raw.githubusercontent.com/BOTwillplayz/FloofCam/refs/heads/main/Screenshot%202025-06-19%20at%2016.29.58.png)
 25/06/19 Session 2 // 25/06/20 Session 1
 I redesigned it and really love it!!! It will fit perfect on my dog (I thought *foreshadowing*)! I realised as I wias dozing off *zzzz* that there is no place in the floof cam that straps onto my dogs harness, so I figured that today I would need to redisgn add to design, so I went to bed. I woke up with a drive to finsh it so I came up with a design similar deisgn to a go-pro monut and concluded that my first design was done!
-
+![render 1](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%201.png)
+![render 2](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%202.png)
