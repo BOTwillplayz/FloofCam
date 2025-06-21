@@ -2,7 +2,7 @@
 
 > This is a submission for the 50 dollar grant from @hackclubs highway
 
-Hi there! this is a cute camera that straps onto my dogs harness. This allows me to make sure he is ok whilist I am on holiday and I thought using some open source firmware could make it cooler, allowing me to ~~stalk~~ track my cute fllof boy (thats why I made it!!!) Designing and researching this was a great time. It works using an ESP32 cam module. 
+Hi there! this is a cute camera that straps onto my dogs harness. The total price in this case is R593 (or $31.64)This allows me to make sure he is ok whilist I am on holiday and I thought using some open source firmware could make it cooler, allowing me to ~~stalk~~ track my cute fllof boy (thats why I made it!!!) Designing and researching this was a great time. It works using an ESP32 cam module. 
 
 Here are some pictures of how it will look (top and botton):
 ![render 1](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%201.png)
