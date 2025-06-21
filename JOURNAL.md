@@ -12,7 +12,7 @@ Today I started on the CAD and it didn't go well! I did my CAD in fusion as I no
 I redesigned it and really love it!!! It will fit perfect on my dog (I thought *foreshadowing*)! I realised as I wias dozing off *zzzz* that there is no place in the floof cam that straps onto my dogs harness, so I figured that today I would need to redisgn add to design, so I went to bed. I woke up with a drive to finsh it so I came up with a design similar deisgn to a go-pro monut and concluded that my first design was done!
 ![render 1](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%201.png)
 ![render 2](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%202.png)
-**25/06/20 Session 2 : 45 Mins **
+**25/06/20 Session 2 : 45 Mins**
 I finilised the github repo with picking out parts and rewriting the readme.md. I am SUPER happy and excited to build it!!! Thanlks for reading my journal(.md)
 **25/06/20 3 Hours**
 Ok maybe I lied, I did some test prints and it wasn't good.. There were 3 major issues:
