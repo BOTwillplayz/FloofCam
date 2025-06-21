@@ -14,8 +14,21 @@ MicroSD card 64GB | https://tinyurl.com/fvk5rymw | R179 (free shipping)($9.86)
 Micro USB cable | https://tinyurl.com/Microusbcablehackclub | R79 (free shipping)($4.35)
 Total | (R593)($31,64)
 
+---
+
 Here are some pictures of how it will look (top and botton):
 ![render 1](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%201.png)
 ![render 2](https://github.com/BOTwillplayz/FloofCam/blob/7fb8920f8cf71849e038d3e28e14b70a4b69511a/FloofCam%20Render%202.png)
+
+---
+
+Wiring Diagram:
+Programmer: Fits Right into the main module
+SD Card: Slides right in.
+Battery:
+5V ---> 5v
+GND ---> GND
+
+---
 
 Thanks so much for checking it out 📟🖲️📀!
